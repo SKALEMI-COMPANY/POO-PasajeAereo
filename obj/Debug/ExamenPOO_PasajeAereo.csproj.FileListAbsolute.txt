@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\ExamenPOO_PasajeAereo\bin\Debug\ExamenPOO_PasajeAereo.exe.config
+C:\Users\PC\source\repos\ExamenPOO_PasajeAereo\bin\Debug\ExamenPOO_PasajeAereo.exe
+C:\Users\PC\source\repos\ExamenPOO_PasajeAereo\bin\Debug\ExamenPOO_PasajeAereo.pdb
+C:\Users\PC\source\repos\ExamenPOO_PasajeAereo\obj\Debug\ExamenPOO_PasajeAereo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ExamenPOO_PasajeAereo\obj\Debug\ExamenPOO_PasajeAereo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ExamenPOO_PasajeAereo\obj\Debug\ExamenPOO_PasajeAereo.exe
+C:\Users\PC\source\repos\ExamenPOO_PasajeAereo\obj\Debug\ExamenPOO_PasajeAereo.pdb
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\ExamenPOO_PasajeAereo\bin\Debug\ExamenPOO_PasajeAereo.exe.config
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\ExamenPOO_PasajeAereo\bin\Debug\ExamenPOO_PasajeAereo.exe
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\ExamenPOO_PasajeAereo\bin\Debug\ExamenPOO_PasajeAereo.pdb
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\ExamenPOO_PasajeAereo\obj\Debug\ExamenPOO_PasajeAereo.csproj.AssemblyReference.cache
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\ExamenPOO_PasajeAereo\obj\Debug\ExamenPOO_PasajeAereo.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\ExamenPOO_PasajeAereo\obj\Debug\ExamenPOO_PasajeAereo.csproj.CoreCompileInputs.cache
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\ExamenPOO_PasajeAereo\obj\Debug\ExamenPOO_PasajeAereo.exe
+D:\OneDrive - ULEAM\Escritorio\Nueva carpeta\ExamenPOO_PasajeAereo\obj\Debug\ExamenPOO_PasajeAereo.pdb
